@@ -1,0 +1,8 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+libxml2-python==2.10.3
+prelude==5.2.0
+requests==2.30.0
+six==1.16.0
+urllib3==2.0.2
